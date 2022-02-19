@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SzegediUI/static/css/main.f3e8a60c.css",
+    "main.js": "/SzegediUI/static/js/main.a17b4a6d.js",
+    "static/media/backgroundpic3.jpg": "/SzegediUI/static/media/backgroundpic3.defd2785c8e2d56c4e31.jpg",
+    "index.html": "/SzegediUI/index.html",
+    "main.f3e8a60c.css.map": "/SzegediUI/static/css/main.f3e8a60c.css.map",
+    "main.a17b4a6d.js.map": "/SzegediUI/static/js/main.a17b4a6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3e8a60c.css",
+    "static/js/main.a17b4a6d.js"
+  ]
+}
